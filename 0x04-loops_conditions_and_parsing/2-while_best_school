@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+# Bash script that displays Best School 10 times while loop.
+
+n=0
+
+while (( n < 10 ))
+
+do
+    echo "Best School"
+
+    (( n++ ))
+
+done
+
