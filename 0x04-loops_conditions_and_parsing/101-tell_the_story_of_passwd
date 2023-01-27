@@ -1,8 +1,5 @@
 #!/usr/bin/env bash
-
 #  displays the content of the file /etc/passwd as a story
-
-
 
 while IFS=":" read -r USERNAME PASSWORD USER_ID GROUP_ID USER_ID_INFO HOME_DIRECTORY COMMAND_SHELL; do
 

@@ -1,8 +1,5 @@
 #!/usr/bin/env bash
-
 # FizzBuzz!!
-
-
 
 for i in $(seq 1 100);
 
