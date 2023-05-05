@@ -1,7 +1,0 @@
-#!/usr/bin/env bash
-#  uses ssh to connect to your server using 
-#the private key ~/.ssh/school with the user ubuntu
-ssh -i ~/.ssh/id_rsa ubuntu@54.197.43.229
-ssh -i ~/.ssh/id_rsa ubuntu@54.237.224.155
-ssh -i ~/.ssh/id_rsa ubuntu@35.174.200.118
-
