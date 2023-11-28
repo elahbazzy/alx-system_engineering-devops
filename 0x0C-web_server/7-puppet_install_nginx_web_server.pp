@@ -6,7 +6,7 @@
 
 package { 'nginx':
 	ensure => 'installed',
-	require => Exec['update system']
+#	require => Exec['update system']
 }
 
 file {'/var/www/html/index.html':
